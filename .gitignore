@@ -1,0 +1,9 @@
+.env
+*.pem
+*.key
+*.tfstate
+*.tfstate.*
+.terraform/
+service-account*.json
+*-credentials.json
+node_modules/
