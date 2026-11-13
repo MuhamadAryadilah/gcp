@@ -1,0 +1,16 @@
+﻿# Catatan TANGGAL
+
+## Yang dipelajari hari ini
+
+
+## Yang sudah familiar / sudah lupa
+
+
+## Lab yang dikerjakan
+
+
+## Pertanyaan yang masih mengganjal
+
+
+## Padanan di pekerjaan (opsional)
+
